@@ -1,0 +1,10 @@
+; List of all maps ignored for the plugin (prefix supported)
+; 1 per line
+;
+surf_
+bhop_
+kz_
+am_
+jb_
+ba_
+mg_
